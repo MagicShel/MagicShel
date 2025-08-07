@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning cloud-specific concerns
 - 📫 How to reach me:
   - gforb-github@yahoo.com
-  - paper.wf/magicshel/
+  - https://paper.wf/magicshel/
   - https://bsky.app/profile/magickshel.bsky.social
 
 # About Me
