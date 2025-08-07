@@ -4,9 +4,9 @@
 - 👀 I’m interested in Java, Spring, NodeJS, TypeScript, Angular, Python, AI
 - 🌱 I’m currently learning cloud-specific concerns
 - 📫 How to reach me:
-  - gforb-github@yahoo.com
-  - https://paper.wf/magicshel/
-  - https://bsky.app/profile/magickshel.bsky.social
+  - email: gforb-github@yahoo.com
+  - blog: https://paper.wf/magicshel
+  - bluesky: https://bsky.app/profile/magickshel.bsky.social
 
 # About Me
 ## Currently
